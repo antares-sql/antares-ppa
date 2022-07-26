@@ -18,3 +18,23 @@ Description:
 License: MIT
 Vendor: Fabio Di Stasio <fabio286@gmail.com>
 
+Package: antares
+Version: 0.5.12
+Architecture: amd64
+Maintainer: Fabio Di Stasio <fabio286@gmail.com>
+Installed-Size: 341642
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./deb/Antares-0.5.12-linux_amd64.deb
+Size: 73097726
+MD5sum: a8ea6143e12ee6339f198c3288af7739
+SHA1: 8dfee070906cdc8cac2371a8f4c14c4e7d194778
+SHA256: 38cc27d7055d7d68a69d5ec670a0b6337b5c31cd60e17c0da5d5fd6922056cee
+Section: default
+Priority: optional
+Homepage: https://github.com/antares-sql/antares#readme
+Description:
+  A modern, fast and productivity driven SQL client with a focus in UX.
+License: MIT
+Vendor: Fabio Di Stasio <fabio286@gmail.com>
+

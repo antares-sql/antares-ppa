@@ -1,64 +1,4 @@
 Package: antares
-Version: 0.5.14
-Architecture: amd64
-Maintainer: Fabio Di Stasio <fabio286@gmail.com>
-Installed-Size: 343702
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: ./deb/Antares-0.5.14-linux_amd64.deb
-Size: 73077860
-MD5sum: 4d241cbae6721bf567e89e3a78e772ce
-SHA1: a7573754cca8d1d5c3a6678a437e68f22682ae27
-SHA256: a7b51a8551fad15867ee1536dab665975bfa9e785404a427cdd3604c8eebca60
-Section: default
-Priority: optional
-Homepage: https://github.com/antares-sql/antares#readme
-Description:
-  A modern, fast and productivity driven SQL client with a focus in UX.
-License: MIT
-Vendor: Fabio Di Stasio <fabio286@gmail.com>
-
-Package: antares
-Version: 0.5.14
-Architecture: arm64
-Maintainer: Fabio Di Stasio <fabio286@gmail.com>
-Installed-Size: 349118
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: ./deb/Antares-0.5.14-linux_arm64.deb
-Size: 69948744
-MD5sum: b4e784470d65c8f60898d1bcf4445d1e
-SHA1: 38c1aa15fc3149cd263208a3a48d9ec0a58d9bbb
-SHA256: 8224475e1b671253e07a51a3998038c9be32ea965c3ecb52a585ce40ea0019c0
-Section: default
-Priority: optional
-Homepage: https://github.com/antares-sql/antares#readme
-Description:
-  A modern, fast and productivity driven SQL client with a focus in UX.
-License: MIT
-Vendor: Fabio Di Stasio <fabio286@gmail.com>
-
-Package: antares
-Version: 0.5.14
-Architecture: armhf
-Maintainer: Fabio Di Stasio <fabio286@gmail.com>
-Installed-Size: 286739
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: ./deb/Antares-0.5.14-linux_armv7l.deb
-Size: 67607678
-MD5sum: 71e99b657eb3138e7972967d5c55eaa9
-SHA1: 147dd9a08e238c45621160d93970f8f7335a89a2
-SHA256: 37e5ed1839207027328be11c4128c67655cae8151a7a7f67c8c4f2e031cfcc9c
-Section: default
-Priority: optional
-Homepage: https://github.com/antares-sql/antares#readme
-Description:
-  A modern, fast and productivity driven SQL client with a focus in UX.
-License: MIT
-Vendor: Fabio Di Stasio <fabio286@gmail.com>
-
-Package: antares
 Version: 0.5.15
 Architecture: amd64
 Maintainer: Fabio Di Stasio <fabio286@gmail.com>
@@ -170,6 +110,66 @@ Size: 68186610
 MD5sum: e73af9c29f6986aa66f5a31efb0709a5
 SHA1: 78c6f588ffea79bfb7e7a653a1d8394412f0367a
 SHA256: baa69b04278e7a79ad2c939358b26c570baf01f2cb4d9db1daac541a1273ba25
+Section: default
+Priority: optional
+Homepage: https://github.com/antares-sql/antares#readme
+Description:
+  A modern, fast and productivity driven SQL client with a focus in UX.
+License: MIT
+Vendor: Fabio Di Stasio <fabio286@gmail.com>
+
+Package: antares
+Version: 0.5.17
+Architecture: amd64
+Maintainer: Fabio Di Stasio <fabio286@gmail.com>
+Installed-Size: 343738
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./deb/Antares-0.5.17-linux_amd64.deb
+Size: 73634754
+MD5sum: 9247b85b4e569e797935d30ba9a8fcc2
+SHA1: 0890a5072c9addfc65bcc5253eafd288ff8088c9
+SHA256: a5c32d3a79aaf4a6165ebb9488964fc375a1399e59c8b7ba0fd1f6a13f2489b6
+Section: default
+Priority: optional
+Homepage: https://github.com/antares-sql/antares#readme
+Description:
+  A modern, fast and productivity driven SQL client with a focus in UX.
+License: MIT
+Vendor: Fabio Di Stasio <fabio286@gmail.com>
+
+Package: antares
+Version: 0.5.17
+Architecture: arm64
+Maintainer: Fabio Di Stasio <fabio286@gmail.com>
+Installed-Size: 349153
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./deb/Antares-0.5.17-linux_arm64.deb
+Size: 70562554
+MD5sum: 6778e63bb13777017464bbbd2d9e4e41
+SHA1: 443a33be20a3bdb7b0567cda8b05b644825d24d7
+SHA256: 9151e5eb4855a8499081cae0a5af2402901192cd39263e1db44d21aecbf65700
+Section: default
+Priority: optional
+Homepage: https://github.com/antares-sql/antares#readme
+Description:
+  A modern, fast and productivity driven SQL client with a focus in UX.
+License: MIT
+Vendor: Fabio Di Stasio <fabio286@gmail.com>
+
+Package: antares
+Version: 0.5.17
+Architecture: armhf
+Maintainer: Fabio Di Stasio <fabio286@gmail.com>
+Installed-Size: 286774
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./deb/Antares-0.5.17-linux_armv7l.deb
+Size: 68195472
+MD5sum: 1ba4c19f78ee2ec849e07db867271289
+SHA1: d1b7ae6e2f544bac723e86bcb8e5f4e30be270b0
+SHA256: eb3996091b70483bbecd329bb62bcd80be6f250fe0cd021499d0cc0ab820d742
 Section: default
 Priority: optional
 Homepage: https://github.com/antares-sql/antares#readme

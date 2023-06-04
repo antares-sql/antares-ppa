@@ -56,16 +56,16 @@ License: MIT
 Vendor: Fabio Di Stasio <fabio286@gmail.com>
 
 Package: antares
-Version: 0.7.8
+Version: 0.7.11
 Architecture: amd64
 Maintainer: Fabio Di Stasio <fabio286@gmail.com>
-Installed-Size: 379258
+Installed-Size: 381184
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./deb/Antares-0.7.8-linux_amd64.deb
-Size: 80256722
-MD5sum: 869c9b8a6457f70c561322b5351934d9
-SHA1: 5639c7d1983805a1afa608638bc1106fad87d3c4
-SHA256: 7da6474cc01827320795c4bdc6dd9bf991df5564daeac0cf49a2e4b842fdd033
+Filename: ./deb/Antares-0.7.11-linux_amd64.deb
+Size: 80523348
+MD5sum: be90f24b7fb88dad0a882f98a65df845
+SHA1: 2e6636c6c622f1f1b206fb2746767935fde8ec7a
+SHA256: eafe3c3e57b6ab5242dedd46d057abc35b3328d855972a050bc688652e0bfb85
 Section: default
 Priority: extra
 Homepage: https://github.com/antares-sql/antares#readme
@@ -75,16 +75,16 @@ License: MIT
 Vendor: Fabio Di Stasio <fabio286@gmail.com>
 
 Package: antares
-Version: 0.7.8
+Version: 0.7.11
 Architecture: arm64
 Maintainer: Fabio Di Stasio <fabio286@gmail.com>
-Installed-Size: 384412
+Installed-Size: 386361
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./deb/Antares-0.7.8-linux_arm64.deb
-Size: 76306930
-MD5sum: b845960c0cfba87934c2c28d4277383c
-SHA1: bfa7713c763408dcaba600def46d79b5b5b0f7a8
-SHA256: e5eed08b6eefd36b2ae4b71cf77f2d85c2af8061d3671bd7d4facac2093a021a
+Filename: ./deb/Antares-0.7.11-linux_arm64.deb
+Size: 76652370
+MD5sum: 47d11ae596cd667832eb6f4c4a567fab
+SHA1: d6fe478fc243e2d71a6f2fa02317f8b81ed79aff
+SHA256: 3796e545fdf8947be8889eb3946670ce4b9c5fb1fc890f2d0a2d936792fb1718
 Section: default
 Priority: extra
 Homepage: https://github.com/antares-sql/antares#readme
@@ -94,16 +94,16 @@ License: MIT
 Vendor: Fabio Di Stasio <fabio286@gmail.com>
 
 Package: antares
-Version: 0.7.8
+Version: 0.7.11
 Architecture: armhf
 Maintainer: Fabio Di Stasio <fabio286@gmail.com>
-Installed-Size: 318447
+Installed-Size: 320373
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./deb/Antares-0.7.8-linux_armv7l.deb
-Size: 74234184
-MD5sum: efe9cac667bddb903ced1c6f19c81837
-SHA1: b833378478b93eed22a965a13c2c18eff2384f6b
-SHA256: ca183081d1ecea4b7110d628a8c4b7c88091f861f77493c5452756d4cf9c08b8
+Filename: ./deb/Antares-0.7.11-linux_armv7l.deb
+Size: 74250914
+MD5sum: bb5b03fc1a8fc75173e4a1fb9611e07c
+SHA1: 89db7b0a0a1fa83b6c0684d5523fd0af6f936b9e
+SHA256: d6a7f3232a6df2b5783efd2daedd3752b9f42706d4cb50d763147cddc0649398
 Section: default
 Priority: extra
 Homepage: https://github.com/antares-sql/antares#readme

@@ -8,6 +8,6 @@ gpg --default-key "fabio286@gmail.com" -abs -o - Release > Release.gpg
 gpg --default-key "fabio286@gmail.com" --clearsign -o - Release > InRelease
 
 # Commit & push
-# git add -A
-# git commit -m update
-# git push
+git add -A
+git commit -m update
+git push

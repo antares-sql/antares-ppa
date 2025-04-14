@@ -62,14 +62,14 @@ Package: antares
 Version: 0.7.34
 Architecture: amd64
 Maintainer: Fabio Di Stasio <info@fabiodistasio.it>
-Installed-Size: 509036
+Installed-Size: 508983
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: ./deb/Antares-0.7.34-linux_amd64.deb
-Size: 93681920
-MD5sum: 0526317bb591aa3ee0fcc0542b035f36
-SHA1: d9c7f6522c209ec94de4cacca1374efabc39e6c2
-SHA256: 0f5cbefad698025afa9cfc5a40ed40fdf245c4b19b2165b2582965ec9b765af6
+Size: 92790706
+MD5sum: c6113cf39d269aad7398900939303aa4
+SHA1: e82058373cfaf16ea9677b726a5d2e1947662ffe
+SHA256: 91f9dce9842521741eba22562e956b03236290bd63a290cd5ae7164f5272c13b
 Section: default
 Priority: optional
 Homepage: https://github.com/antares-sql/antares#readme
